@@ -25,6 +25,7 @@ Analiza je pokazala, da se cene osnovnih živil v Sloveniji niso spreminjale ena
 
 Povezave
 Posnetek predstavitve: https://youtu.be/nyWztZFzT2U
+
 Dostop do aplikacije: https://www.wolframcloud.com/obj/a068c620-1337-467f-a335-a6a41df0a809
 
 Pripravila : Manca Šverc
